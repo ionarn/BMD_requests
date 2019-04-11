@@ -60,7 +60,8 @@ Other feature requests:
 5. Lights with specular only mode
 6. Cast shadows from all lights
 7. Addition of own PBR Path Tracing Render Engine or support of already existing ones (like Octance, VRay, Redshift, Corona, Cycles, etc.)
-8. Advanced UV Mapping tool
+8. Realtime PBR Render Engine for Previewing Shaders for Path Tracing Render Engine
+9. Advanced UV Mapping tool
 
 ### Node Management
 1. Batch change properties for multiple selected nodes.
