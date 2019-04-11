@@ -52,14 +52,15 @@ Other feature requests:
 1. Render queue branching
 2. Cache to disk format options
 
-### 3d
+### 3D
 1. Mesh clipping (not alpha, but real polygon slicing)
-2. Polygon count optimisation node (ideally dependent on how far the camera is)
+2. Level of Detail Node (dependent on how far the camera is)
 3. Projection mode for spherical camera
 4. Enable decay on camera projection
 5. Lights with specular only mode
-6. Cast shadows from all lights. PBR Render (yes, I know)
-7. Advanced UV Mapping tool
+6. Cast shadows from all lights
+7. Addition of own PBR Path Tracing Render Engine or support of already existing ones (like Octance, VRay, Redshift, Corona, Cycles, etc.)
+8. Advanced UV Mapping tool
 
 ### Node Management
 1. Batch change properties for multiple selected nodes.
